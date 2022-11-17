@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Joe Record Producer</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="Joe Developer">533b840bdb3ad510ec1646f8139619f0</owner>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=17a8f16b1bbe99107b918403604bcb22&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Record Producer">211f71ca73202010ae42d31ee2f6a785</sc_template>
+        <script/>
+        <short_description>Joe Record Producer</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>joe.developer</sys_created_by>
+        <sys_created_on>2022-11-02 14:32:52</sys_created_on>
+        <sys_id>17a8f16b1bbe99107b918403604bcb22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Joe Record Producer</sys_name>
+        <sys_package display_value="Joes App" source="x_icfr_joes_app">7ba531a71bbe99107b918403604bcb5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</sys_scope>
+        <sys_update_name>sc_cat_item_producer_17a8f16b1bbe99107b918403604bcb22</sys_update_name>
+        <sys_updated_by>joe.developer</sys_updated_by>
+        <sys_updated_on>2022-11-02 14:32:52</sys_updated_on>
+        <table_name/>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=17a8f16b1bbe99107b918403604bcb22"/>
+    <fx_price action="DELETE" query="id=17a8f16b1bbe99107b918403604bcb22"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>17a8f16b1bbe99107b918403604bcb22</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>joe.developer</sys_created_by>
+        <sys_created_on>2022-11-02 14:32:52</sys_created_on>
+        <sys_id>97a8f16b1bbe99107b918403604bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>joe.developer</sys_updated_by>
+        <sys_updated_on>2022-11-02 14:32:52</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</application>
+        <file_path/>
+        <instance_id>c32805efdb11d7006578f22ebf961935</instance_id>
+        <instance_name>incentivetgsvsdemo3</instance_name>
+        <name>sc_cat_item_producer_17a8f16b1bbe99107b918403604bcb22</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer"><sc_cat_item_producer action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><allow_edit>false</allow_edit><availability>on_desktop</availability><billable>false</billable><can_cancel>false</can_cancel><category/><checked_out/><cost>0</cost><custom_cart/><delivery_plan/><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>false</ignore_price><image/><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Joe Record Producer</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="Joe Developer">533b840bdb3ad510ec1646f8139619f0</owner><picture/><post_insert_script/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=17a8f16b1bbe99107b918403604bcb22&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><redirect_url>generated_record</redirect_url><request_method/><roles/><save_options/><save_script/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><sc_template display_value="AES Record Producer">211f71ca73202010ae42d31ee2f6a785</sc_template><script/><short_description>Joe Record Producer</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item_producer</sys_class_name><sys_created_by>joe.developer</sys_created_by><sys_created_on>2022-11-02 14:32:52</sys_created_on><sys_id>17a8f16b1bbe99107b918403604bcb22</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Joe Record Producer</sys_name><sys_package display_value="Joes App" source="x_icfr_joes_app">7ba531a71bbe99107b918403604bcb5f</sys_package><sys_policy/><sys_scope display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</sys_scope><sys_update_name>sc_cat_item_producer_17a8f16b1bbe99107b918403604bcb22</sys_update_name><sys_updated_by>joe.developer</sys_updated_by><sys_updated_on>2022-11-02 14:32:52</sys_updated_on><table_name/><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><view/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item_producer><sys_translated_text action="delete_multiple" query="documentkey=17a8f16b1bbe99107b918403604bcb22"/><fx_price action="delete_multiple" query="id=17a8f16b1bbe99107b918403604bcb22"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>17a8f16b1bbe99107b918403604bcb22</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>joe.developer</sys_created_by><sys_created_on>2022-11-02 14:32:52</sys_created_on><sys_id>97a8f16b1bbe99107b918403604bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>joe.developer</sys_updated_by><sys_updated_on>2022-11-02 14:32:52</sys_updated_on><table>sc_cat_item_producer</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>2000866533</payload_hash>
+        <record_name>Joe Record Producer</record_name>
+        <reverted_from/>
+        <source>0cb571a71bbe99107b918403604bcb98</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joe.developer</sys_created_by>
+        <sys_created_on>2022-11-02 14:32:52</sys_created_on>
+        <sys_id>97a8f16b1bbe99107b918403604bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18438c25dea0000001</sys_recorded_at>
+        <sys_updated_by>joe.developer</sys_updated_by>
+        <sys_updated_on>2022-11-02 14:32:52</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>5fa8f16b7cbe99102278b8631dc48a2c</update_guid>
+        <update_guid_history>5fa8f16b7cbe99102278b8631dc48a2c:2000866533</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2022-11-02 07:33:42">5bd8b56b1bbe99107b918403604bcb26</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joe.developer</sys_created_by>
+        <sys_created_on>2022-11-02 14:33:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>3d536210060b4a80acaf35511fe55810</sys_id>
+        <sys_metadata>17a8f16b1bbe99107b918403604bcb22</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Joe Record Producer</sys_name>
+        <sys_package display_value="Joes App" source="x_icfr_joes_app">7ba531a71bbe99107b918403604bcb5f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</sys_scope>
+        <sys_scope_delete display_value="">0023a7c65f5548c3898bd3c915010301</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_17a8f16b1bbe99107b918403604bcb22</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_17a8f16b1bbe99107b918403604bcb22">97a8f16b1bbe99107b918403604bcb2d</sys_update_version>
+        <sys_updated_by>joe.developer</sys_updated_by>
+        <sys_updated_on>2022-11-02 14:33:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

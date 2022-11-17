@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom">
+    <kb_uc_can_read_mtom action="DELETE">
+        <kb_knowledge_base display_value="Best Practices">8c2b497f4fef5b00d907671e0210c749</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_read_mtom</sys_class_name>
+        <sys_created_by>drew.carpenter</sys_created_by>
+        <sys_created_on>2022-11-16 21:26:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>43ad1b001b1799507b918403604bcbd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Best Practices.AES Users</sys_name>
+        <sys_package display_value="Joes App" source="x_icfr_joes_app">7ba531a71bbe99107b918403604bcb5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</sys_scope>
+        <sys_update_name>kb_uc_can_read_mtom_43ad1b001b1799507b918403604bcbd0</sys_update_name>
+        <sys_updated_by>drew.carpenter</sys_updated_by>
+        <sys_updated_on>2022-11-16 21:26:47</sys_updated_on>
+        <user_criteria display_value="AES Users">7d5ddb1f53412010f2e9ddeeff7b12a6</user_criteria>
+    </kb_uc_can_read_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</application>
+        <file_path/>
+        <instance_id>c32805efdb11d7006578f22ebf961935</instance_id>
+        <instance_name>incentivetgsvsdemo3</instance_name>
+        <name>kb_uc_can_read_mtom_43ad1b001b1799507b918403604bcbd0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom"><kb_uc_can_read_mtom action="INSERT_OR_UPDATE"><kb_knowledge_base display_value="Best Practices">8c2b497f4fef5b00d907671e0210c749</kb_knowledge_base><sys_class_name>kb_uc_can_read_mtom</sys_class_name><sys_created_by>drew.carpenter</sys_created_by><sys_created_on>2022-11-16 21:26:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>43ad1b001b1799507b918403604bcbd0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Best Practices.AES Users</sys_name><sys_package display_value="Joes App" source="x_icfr_joes_app">7ba531a71bbe99107b918403604bcb5f</sys_package><sys_policy/><sys_scope display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</sys_scope><sys_update_name>kb_uc_can_read_mtom_43ad1b001b1799507b918403604bcbd0</sys_update_name><sys_updated_by>drew.carpenter</sys_updated_by><sys_updated_on>2022-11-16 21:26:47</sys_updated_on><user_criteria display_value="AES Users">7d5ddb1f53412010f2e9ddeeff7b12a6</user_criteria></kb_uc_can_read_mtom></record_update>]]></payload>
+        <payload_hash>-1802266789</payload_hash>
+        <record_name>Best Practices.AES Users</record_name>
+        <reverted_from/>
+        <source>0cb571a71bbe99107b918403604bcb98</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>drew.carpenter</sys_created_by>
+        <sys_created_on>2022-11-16 21:26:47</sys_created_on>
+        <sys_id>43ad1b001b1799507b918403604bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848256572a0000001</sys_recorded_at>
+        <sys_updated_by>drew.carpenter</sys_updated_by>
+        <sys_updated_on>2022-11-16 21:26:47</sys_updated_on>
+        <type>Who Can Read Knowledge Base</type>
+        <update_guid>0bad1b00b7179950ee82d939d42346d3</update_guid>
+        <update_guid_history>0bad1b00b7179950ee82d939d42346d3:-1802266789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2022-11-16 13:54:29">7804e7841b1799507b918403604bcbef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>drew.carpenter</sys_created_by>
+        <sys_created_on>2022-11-16 21:54:29</sys_created_on>
+        <sys_db_object display_value="" name="kb_uc_can_read_mtom">kb_uc_can_read_mtom</sys_db_object>
+        <sys_id>42d737e6cc804cc0b3075bbce7b80284</sys_id>
+        <sys_metadata>43ad1b001b1799507b918403604bcbd0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Best Practices.AES Users</sys_name>
+        <sys_package display_value="Joes App" source="x_icfr_joes_app">7ba531a71bbe99107b918403604bcb5f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Joes App">7ba531a71bbe99107b918403604bcb5f</sys_scope>
+        <sys_scope_delete display_value="">0023a7c65f5548c3898bd3c915010301</sys_scope_delete>
+        <sys_update_name>kb_uc_can_read_mtom_43ad1b001b1799507b918403604bcbd0</sys_update_name>
+        <sys_update_version display_value="kb_uc_can_read_mtom_43ad1b001b1799507b918403604bcbd0">43ad1b001b1799507b918403604bcbd4</sys_update_version>
+        <sys_updated_by>drew.carpenter</sys_updated_by>
+        <sys_updated_on>2022-11-16 21:54:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
